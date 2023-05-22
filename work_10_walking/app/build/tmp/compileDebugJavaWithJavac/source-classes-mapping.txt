@@ -1,0 +1,4 @@
+cn/edu/work_10_walking/BuildConfig.java
+ cn.edu.work_10_walking.BuildConfig
+cn/edu/work_10_walking/MainActivity.java
+ cn.edu.work_10_walking.MainActivity

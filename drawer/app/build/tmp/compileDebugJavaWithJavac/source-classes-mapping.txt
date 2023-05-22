@@ -1,0 +1,20 @@
+cn/edu/drawer/ui/slideshow/SlideshowViewModel.java
+ cn.edu.drawer.ui.slideshow.SlideshowViewModel
+cn/edu/drawer/ui/gallery/GalleryViewModel.java
+ cn.edu.drawer.ui.gallery.GalleryViewModel
+cn/edu/drawer/BuildConfig.java
+ cn.edu.drawer.BuildConfig
+cn/edu/drawer/ui/gallery/GalleryFragment.java
+ cn.edu.drawer.ui.gallery.GalleryFragment
+ cn.edu.drawer.ui.gallery.GalleryFragment$1
+cn/edu/drawer/ui/home/HomeFragment.java
+ cn.edu.drawer.ui.home.HomeFragment
+ cn.edu.drawer.ui.home.HomeFragment$1
+cn/edu/drawer/MainActivity.java
+ cn.edu.drawer.MainActivity
+ cn.edu.drawer.MainActivity$1
+cn/edu/drawer/ui/home/HomeViewModel.java
+ cn.edu.drawer.ui.home.HomeViewModel
+cn/edu/drawer/ui/slideshow/SlideshowFragment.java
+ cn.edu.drawer.ui.slideshow.SlideshowFragment
+ cn.edu.drawer.ui.slideshow.SlideshowFragment$1

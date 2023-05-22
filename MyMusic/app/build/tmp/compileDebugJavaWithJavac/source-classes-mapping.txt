@@ -1,0 +1,10 @@
+cn/edu/mymusic/PlayerActivity.java
+ cn.edu.mymusic.PlayerActivity
+ cn.edu.mymusic.PlayerActivity$1
+cn/edu/mymusic/MainActivity.java
+ cn.edu.mymusic.MainActivity
+ cn.edu.mymusic.MainActivity$1
+ cn.edu.mymusic.MainActivity$2
+ cn.edu.mymusic.MainActivity$customAdpter
+cn/edu/mymusic/BuildConfig.java
+ cn.edu.mymusic.BuildConfig

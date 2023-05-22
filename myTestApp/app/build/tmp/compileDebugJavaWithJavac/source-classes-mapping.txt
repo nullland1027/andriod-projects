@@ -1,0 +1,4 @@
+edu/zjut/cn/MainActivity.java
+ edu.zjut.cn.MainActivity
+edu/zjut/cn/BuildConfig.java
+ edu.zjut.cn.BuildConfig

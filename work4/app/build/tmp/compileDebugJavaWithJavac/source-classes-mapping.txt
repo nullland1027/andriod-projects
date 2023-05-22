@@ -1,0 +1,7 @@
+cn/edu/work4/BuildConfig.java
+ cn.edu.work4.BuildConfig
+cn/edu/work4/SecondActivity.java
+ cn.edu.work4.SecondActivity
+cn/edu/work4/MainActivity.java
+ cn.edu.work4.MainActivity
+ cn.edu.work4.MainActivity$1

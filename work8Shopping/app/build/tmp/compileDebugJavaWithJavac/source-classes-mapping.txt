@@ -1,0 +1,9 @@
+cn/edu/work8shopping/BuildConfig.java
+ cn.edu.work8shopping.BuildConfig
+cn/edu/work8shopping/MainActivity.java
+ cn.edu.work8shopping.MainActivity
+ cn.edu.work8shopping.MainActivity$1
+ cn.edu.work8shopping.MainActivity$2
+ cn.edu.work8shopping.MainActivity$3
+ cn.edu.work8shopping.MainActivity$3$1
+ cn.edu.work8shopping.MainActivity$4

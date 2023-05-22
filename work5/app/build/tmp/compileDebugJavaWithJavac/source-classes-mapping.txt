@@ -1,0 +1,10 @@
+cn/edu/work5/ThirdActivity.java
+ cn.edu.work5.ThirdActivity
+cn/edu/work5/BuildConfig.java
+ cn.edu.work5.BuildConfig
+cn/edu/work5/MainActivity.java
+ cn.edu.work5.MainActivity
+ cn.edu.work5.MainActivity$1
+cn/edu/work5/SecondActivity.java
+ cn.edu.work5.SecondActivity
+ cn.edu.work5.SecondActivity$1

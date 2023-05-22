@@ -1,0 +1,5 @@
+edu/zjut/userlogin/BuildConfig.java
+ edu.zjut.userlogin.BuildConfig
+edu/zjut/userlogin/MainActivity.java
+ edu.zjut.userlogin.MainActivity
+ edu.zjut.userlogin.MainActivity$1
